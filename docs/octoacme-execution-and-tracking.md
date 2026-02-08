@@ -17,11 +17,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
-- Unit tests for new logic
+- Unit tests for new logic (written by [Developers](octoacme-roles-and-personas.md#developers))
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Automated test coverage maintained by [QA/Test Automation Engineer](octoacme-roles-and-personas.md#qatest-automation-engineer)
+- Security scanning in CI (monitored by [Security Engineer](octoacme-roles-and-personas.md#security-engineer))
 - Manual QA for feature acceptance when needed
+- Usability testing with [UX/UI Designer](octoacme-roles-and-personas.md#uxui-designer) for user-facing changes
+- Documentation updated by [Technical Writer](octoacme-roles-and-personas.md#technical-writer) alongside feature work
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +41,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] [QA/Test Automation Engineer](octoacme-roles-and-personas.md#qatest-automation-engineer) integrated into sprint workflow
+- [ ] [Security Engineer](octoacme-roles-and-personas.md#security-engineer) reviews high-risk changes
+- [ ] [Technical Writer](octoacme-roles-and-personas.md#technical-writer) tracks documentation updates
+- [ ] [UX/UI Designer](octoacme-roles-and-personas.md#uxui-designer) validates UI implementations (if applicable)

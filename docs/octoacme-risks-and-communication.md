@@ -15,9 +15,15 @@ Maintain a simple table with:
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
+  - All team members can identify risks
+  - [Security Engineer](octoacme-roles-and-personas.md#security-engineer) identifies security-specific risks
+  - [Business Analyst](octoacme-roles-and-personas.md#business-analyst) identifies business process risks
 - Assess: estimate impact and likelihood
+  - Led by [Project Manager](octoacme-roles-and-personas.md#project-managers) with input from relevant subject matter experts
 - Mitigate: reduced via actions, contingency plans
+  - Mitigation plans assigned to appropriate role owners
 - Monitor: review at weekly syncs and update status
+  - [Project Manager](octoacme-roles-and-personas.md#project-managers) tracks and reports on risk status
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
@@ -39,4 +45,5 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify [Security Engineer](octoacme-roles-and-personas.md#security-engineer) and Security on-call
+- For release issues, engage [Release Manager](octoacme-roles-and-personas.md#release-manager) immediately
