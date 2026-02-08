@@ -14,8 +14,10 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Include all relevant roles: [Developers](octoacme-roles-and-personas.md#developers), [QA/Test Automation Engineers](octoacme-roles-and-personas.md#qatest-automation-engineer), [Product Manager](octoacme-roles-and-personas.md#product-managers), [Project Manager](octoacme-roles-and-personas.md#project-managers), and others who contributed
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Consider inviting [UX/UI Designer](octoacme-roles-and-personas.md#uxui-designer), [Technical Writer](octoacme-roles-and-personas.md#technical-writer), [Release Manager](octoacme-roles-and-personas.md#release-manager), or [Security Engineer](octoacme-roles-and-personas.md#security-engineer) when their work was central to the sprint
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

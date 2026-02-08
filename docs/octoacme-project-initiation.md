@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+  - Consider needs for [Developers](octoacme-roles-and-personas.md#developers), [QA/Test Automation Engineers](octoacme-roles-and-personas.md#qatest-automation-engineer), [UX/UI Designers](octoacme-roles-and-personas.md#uxui-designer), [Technical Writers](octoacme-roles-and-personas.md#technical-writer), [Security Engineers](octoacme-roles-and-personas.md#security-engineer), etc.
 
 ## Project One-pager Template
 - Project name:
@@ -32,6 +33,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Initial team roles identified ([PM](octoacme-roles-and-personas.md#project-managers), [Product Manager](octoacme-roles-and-personas.md#product-managers), [Developers](octoacme-roles-and-personas.md#developers), [QA](octoacme-roles-and-personas.md#qatest-automation-engineer), etc.)
+- [ ] [Business Analyst](octoacme-roles-and-personas.md#business-analyst) engaged for requirements gathering (if needed)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

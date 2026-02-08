@@ -45,7 +45,17 @@ Use these documents as your guide for each phase of the project lifecycle:
 
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** - Identify, manage, and communicate risks and dependencies with stakeholders
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Understand the responsibilities and goals of Developers, Product Managers, and Project Managers
+- **[Roles and Personas](octoacme-roles-and-personas.md)** - Understand the responsibilities and goals of all team members including Developers, Product Managers, Project Managers, UX/UI Designers, Technical Writers, QA/Test Automation Engineers, Release Managers, Business Analysts, and Security Engineers
+
+## Checklists & Templates
+
+Use these comprehensive checklists to ensure completeness and quality throughout your project:
+
+- **[Team Handoffs Checklist](octoacme-handoffs-checklist.md)** - Standardize handoffs between roles to ensure clarity and reduce gaps in deliverables and communication
+
+- **[Quality Assurance Checklist](octoacme-qa-checklist.md)** - Ensure comprehensive testing coverage across all phases from planning through post-release
+
+- **[Release Management Checklist](octoacme-release-management-checklist.md)** - Execute smooth, predictable, and low-risk deployments with this detailed release workflow
 
 ## Getting Started
 
@@ -53,9 +63,11 @@ Use these documents as your guide for each phase of the project lifecycle:
 
 **Starting a new project?** Follow the [Project Initiation Guide](octoacme-project-initiation.md) to create your project one-pager and get stakeholder alignment.
 
-**Managing an active project?** Reference the [Execution & Tracking](octoacme-execution-and-tracking.md) guide for day-to-day workflows and the [Risk Management & Communication](octoacme-risks-and-communication.md) guide for status updates.
+**Managing an active project?** Reference the [Execution & Tracking](octoacme-execution-and-tracking.md) guide for day-to-day workflows, the [Team Handoffs Checklist](octoacme-handoffs-checklist.md) to ensure smooth transitions between roles, and the [Risk Management & Communication](octoacme-risks-and-communication.md) guide for status updates.
 
-**Preparing for release?** Use the [Release & Deployment Guide](octoacme-release-and-deployment.md) checklist to ensure a smooth deployment.
+**Preparing for release?** Use the [Release Management Checklist](octoacme-release-management-checklist.md) for a comprehensive deployment workflow and the [Release & Deployment Guide](octoacme-release-and-deployment.md) for additional guidance.
+
+**Ensuring quality?** Follow the [Quality Assurance Checklist](octoacme-qa-checklist.md) to maintain high standards throughout the development lifecycle.
 
 **After a milestone or sprint?** Run a retrospective using the [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) guide.
 
