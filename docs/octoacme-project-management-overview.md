@@ -14,11 +14,18 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **[Project Manager (PM)](octoacme-roles-and-personas.md#project-managers)**: Coordinates delivery, schedules, risk, and communications
+- **[Product Manager (PdM)](octoacme-roles-and-personas.md#product-managers)**: Defines outcomes, prioritizes backlog, and measures success
+- **[Developers](octoacme-roles-and-personas.md#developers)**: Implement features, collaborate on design and testability
+- **[QA/Test Automation Engineer](octoacme-roles-and-personas.md#qatest-automation-engineer)**: Validates quality, automates testing, and ensures acceptance criteria are met
+- **[UX/UI Designer](octoacme-roles-and-personas.md#uxui-designer)**: Conducts user research and designs intuitive interfaces (when applicable)
+- **[Technical Writer](octoacme-roles-and-personas.md#technical-writer)**: Creates and maintains documentation for users and developers
+- **[Release Manager](octoacme-roles-and-personas.md#release-manager)**: Oversees release process, coordinates deployments, and manages release communication
+- **[Business Analyst](octoacme-roles-and-personas.md#business-analyst)**: Bridges business and technical teams, elicits requirements
+- **[Security Engineer](octoacme-roles-and-personas.md#security-engineer)**: Ensures security best practices throughout the project lifecycle
+- **Stakeholders**: Provide inputs, requirements, and approvals
+
+See the [Roles and Personas](octoacme-roles-and-personas.md) document for detailed responsibilities and interactions.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +34,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Team Handoffs Checklist](octoacme-handoffs-checklist.md)
+- [Quality Assurance Checklist](octoacme-qa-checklist.md)
+- [Release Management Checklist](octoacme-release-management-checklist.md)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
